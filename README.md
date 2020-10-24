@@ -1,3 +1,4 @@
+[![collinsrj](https://circleci.com/gh/collinsrj/i18n-book-ng.svg?style=svg)](https://github.com/collinsrj/i18n-book-ng/)
 # I18nBookNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
